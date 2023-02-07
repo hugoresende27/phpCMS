@@ -6,6 +6,7 @@
             GBI
         </title>
         <meta charset="utf-8">
+        <link rel="stylesheet" media="all" href="stylesheets/public.css" />
     </head>
 
     <body>
@@ -19,6 +20,11 @@
                 <li><a href="index.php">Menu</a></li>
             </ul>
         </navigation>
+
+
+        <div id="content">
+
+        </div>
 
         <footer>
             &copy; <?= date("M/Y")?> Globe Bank
